@@ -1,0 +1,12 @@
+{"time":"2024-09-15T22:27:54.677108173+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:27:54.677120176+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_222754-lyxhz8zm/logs/debug-core.log"}
+{"time":"2024-09-15T22:27:54.677158319+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:27:54.67716965+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_222754-lyxhz8zm/logs/debug-core.log"}
+{"time":"2024-09-15T22:27:54.680014267+05:30","level":"INFO","msg":"created new stream","id":"lyxhz8zm"}
+{"time":"2024-09-15T22:27:54.680032973+05:30","level":"INFO","msg":"stream: started","id":"lyxhz8zm"}
+{"time":"2024-09-15T22:27:54.680038854+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"lyxhz8zm"}}
+{"time":"2024-09-15T22:27:54.680046529+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"lyxhz8zm"}}
+{"time":"2024-09-15T22:27:54.680055175+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"lyxhz8zm"}}
+{"time":"2024-09-15T22:27:55.227951597+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-15T22:27:55.228874548+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-15T22:27:57.758349188+05:30","level":"INFO","msg":"Pausing system monitor"}
