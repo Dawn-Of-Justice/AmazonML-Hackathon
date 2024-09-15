@@ -1,0 +1,12 @@
+{"time":"2024-09-15T22:37:09.171115215+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:37:09.171131826+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_223709-wm3e3bgf/logs/debug-core.log"}
+{"time":"2024-09-15T22:37:09.171177331+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:37:09.17118214+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_223709-wm3e3bgf/logs/debug-core.log"}
+{"time":"2024-09-15T22:37:09.173001062+05:30","level":"INFO","msg":"created new stream","id":"wm3e3bgf"}
+{"time":"2024-09-15T22:37:09.173011983+05:30","level":"INFO","msg":"stream: started","id":"wm3e3bgf"}
+{"time":"2024-09-15T22:37:09.173027001+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"wm3e3bgf"}}
+{"time":"2024-09-15T22:37:09.173025989+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"wm3e3bgf"}}
+{"time":"2024-09-15T22:37:09.173018976+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"wm3e3bgf"}}
+{"time":"2024-09-15T22:37:09.589151477+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-15T22:37:09.590098995+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-15T22:37:11.399220977+05:30","level":"INFO","msg":"Pausing system monitor"}

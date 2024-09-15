@@ -1,0 +1,40 @@
+{"time":"2024-09-15T22:30:33.052592076+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:30:33.052606603+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_223033-78mxpfrw/logs/debug-core.log"}
+{"time":"2024-09-15T22:30:33.052645185+05:30","level":"INFO","msg":"using version","core version":"0.18.0"}
+{"time":"2024-09-15T22:30:33.052649162+05:30","level":"INFO","msg":"created symlink","path":"/home/arjun/Desktop/Github/AmazonML-Hackathon/Donut_tests/wandb/run-20240915_223033-78mxpfrw/logs/debug-core.log"}
+{"time":"2024-09-15T22:30:33.054500169+05:30","level":"INFO","msg":"created new stream","id":"78mxpfrw"}
+{"time":"2024-09-15T22:30:33.054511881+05:30","level":"INFO","msg":"stream: started","id":"78mxpfrw"}
+{"time":"2024-09-15T22:30:33.054517442+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"78mxpfrw"}}
+{"time":"2024-09-15T22:30:33.054527521+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"78mxpfrw"}}
+{"time":"2024-09-15T22:30:33.054531779+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"78mxpfrw"}}
+{"time":"2024-09-15T22:30:33.524417363+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-15T22:30:33.525294531+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-15T22:30:36.000450015+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:16.865892175+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:16.906798906+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:17.309434529+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:17.311578882+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:18.095319427+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:18.097245834+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:18.392509476+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:18.394427456+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:18.906458995+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:18.908211967+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:19.148281173+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:19.188487704+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:19.839293061+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:19.841362254+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:20.168955225+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:20.171066336+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:22.353245183+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:22.355133809+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:23.48911061+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:23.490986672+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:23.857670833+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:23.89846975+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:24.118594073+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:24.120497737+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:31:26.956970976+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:31:26.959105591+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-09-15T22:32:23.713133561+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-09-15T22:32:23.753490873+05:30","level":"INFO","msg":"Pausing system monitor"}
