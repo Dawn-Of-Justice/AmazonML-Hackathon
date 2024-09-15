@@ -1,3 +1,6 @@
 venv
 images
 __pycache__/
+Donut_tests/wandb/
+Donut_tests/wandb
+Donut_tests/donut-finetuned-docvqa
